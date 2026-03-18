@@ -14,3 +14,6 @@ When clicked, the button submits the form.
 - Label
 - Color
 - Action
+## Events
+- onClick
+- onHover
