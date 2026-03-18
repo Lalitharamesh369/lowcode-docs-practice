@@ -17,3 +17,7 @@ When clicked, the button submits the form.
 ## Events
 - onClick
 - onHover
+## Responsiveness
+- onTab
+- onMobile
+- onDesktop
