@@ -9,3 +9,8 @@
 
 ### Example
 When clicked, the button submits the form.
+
+### Properties
+- Label
+- Color
+- Action
